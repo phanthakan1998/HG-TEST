@@ -1,0 +1,13 @@
+{
+    "primary": "#F46424",
+    "secondary": "#FFFFFF",
+    "warning": "#DF773A",
+    "error": "#EE0004",
+    "info": "#3EC3ED",
+    "background": "#F5F5F5",
+    "hintText": "#AAA",
+    "border": "#DDD",
+    "textColor": "#F5F5F5",
+    "remain": "#ECF034"
+    
+}
